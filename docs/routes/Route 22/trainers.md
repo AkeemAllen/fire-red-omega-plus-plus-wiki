@@ -1,0 +1,99 @@
+# Route 22
+
+=== "Elekid"
+
+    | Trainer                                                                                   | 1                                                                                             | 2                                                                                               |
+    | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+    | Rival Blue<br/> ![Rival Blue](https://play.pokemonshowdown.com/sprites/trainers/blue.png) | ![zubat](../../img/pokemon/041.png) <br/>[Zubat](/fire-red-omega-wiki/pokemon/041) <br/>Lv. 9 | ![elekid](../../img/pokemon/239.png) <br/>[Elekid](/fire-red-omega-wiki/pokemon/239) <br/>Lv. 9 |
+
+=== "Magby"
+
+    | Trainer                                                                                   | 1                                                                                             | 2                                                                                             |
+    | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+    | Rival Blue<br/> ![Rival Blue](https://play.pokemonshowdown.com/sprites/trainers/blue.png) | ![zubat](../../img/pokemon/041.png) <br/>[Zubat](/fire-red-omega-wiki/pokemon/041) <br/>Lv. 9 | ![magby](../../img/pokemon/240.png) <br/>[Magby](/fire-red-omega-wiki/pokemon/240) <br/>Lv. 9 |
+
+=== "Smoochum"
+
+    | Trainer                                                                                   | 1                                                                                             | 2                                                                                                   |
+    | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+    | Rival Blue<br/> ![Rival Blue](https://play.pokemonshowdown.com/sprites/trainers/blue.png) | ![zubat](../../img/pokemon/041.png) <br/>[Zubat](/fire-red-omega-wiki/pokemon/041) <br/>Lv. 9 | ![smoochum](../../img/pokemon/238.png) <br/>[Smoochum](/fire-red-omega-wiki/pokemon/238) <br/>Lv. 9 |
+
+<br/>
+
+=== "Elekid"
+
+    | Trainer                                                                                                   | 1                                                                                                | 2                                                                                                  | 3                                                                                                    | 4                                                                                                    | 5                                                                                                      | 6                                                                                                        |
+    | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+    | Rival Blue (Final)<br/> ![Rival Blue (final)](https://play.pokemonshowdown.com/sprites/trainers/blue.png) | ![crobat](../../img/pokemon/169.png) <br/>[Crobat](/fire-red-omega-wiki/pokemon/169) <br/>Lv. 56 | ![walrein](../../img/pokemon/365.png) <br/>[Walrein](/fire-red-omega-wiki/pokemon/365) <br/>Lv. 58 | ![sceptile](../../img/pokemon/254.png) <br/>[Sceptile](/fire-red-omega-wiki/pokemon/254) <br/>Lv. 59 | ![houndoom](../../img/pokemon/229.png) <br/>[Houndoom](/fire-red-omega-wiki/pokemon/229) <br/>Lv. 58 | ![gardevoir](../../img/pokemon/282.png) <br/>[Gardevoir](/fire-red-omega-wiki/pokemon/282) <br/>Lv. 59 | ![electabuzz](../../img/pokemon/125.png) <br/>[Electabuzz](/fire-red-omega-wiki/pokemon/125) <br/>Lv. 61 |
+
+=== "Smoochum"
+
+    | Trainer                                                                                                   | 1                                                                                                | 2                                                                                                    | 3                                                                                                    | 4                                                                                                    | 5                                                                                                    | 6                                                                                            |
+    | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+    | Rival Blue (Final)<br/> ![Rival Blue (final)](https://play.pokemonshowdown.com/sprites/trainers/blue.png) | ![crobat](../../img/pokemon/169.png) <br/>[Crobat](/fire-red-omega-wiki/pokemon/169) <br/>Lv. 56 | ![houndoom](../../img/pokemon/229.png) <br/>[Houndoom](/fire-red-omega-wiki/pokemon/229) <br/>Lv. 58 | ![ampharos](../../img/pokemon/181.png) <br/>[Ampharos](/fire-red-omega-wiki/pokemon/181) <br/>Lv. 58 | ![venusaur](../../img/pokemon/003.png) <br/>[Venusaur](/fire-red-omega-wiki/pokemon/003) <br/>Lv. 59 | ![alakazam](../../img/pokemon/065.png) <br/>[Alakazam](/fire-red-omega-wiki/pokemon/065) <br/>Lv. 59 | ![jynx](../../img/pokemon/124.png) <br/>[Jynx](/fire-red-omega-wiki/pokemon/124) <br/>Lv. 61 |
+
+=== "Magby"
+
+    | Trainer                                                                                                   | 1                                                                                                | 2                                                                                                  | 3                                                                                                    | 4                                                                                                | 5                                                                                                    | 6                                                                                                |
+    | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+    | Rival Blue (Final)<br/> ![Rival Blue (final)](https://play.pokemonshowdown.com/sprites/trainers/blue.png) | ![crobat](../../img/pokemon/169.png) <br/>[Crobat](/fire-red-omega-wiki/pokemon/169) <br/>Lv. 56 | ![walrein](../../img/pokemon/365.png) <br/>[Walrein](/fire-red-omega-wiki/pokemon/365) <br/>Lv. 58 | ![ampharos](../../img/pokemon/181.png) <br/>[Ampharos](/fire-red-omega-wiki/pokemon/181) <br/>Lv. 58 | ![magmar](../../img/pokemon/126.png) <br/>[Magmar](/fire-red-omega-wiki/pokemon/126) <br/>Lv. 61 | ![meganium](../../img/pokemon/154.png) <br/>[Meganium](/fire-red-omega-wiki/pokemon/154) <br/>Lv. 59 | ![gengar](../../img/pokemon/094.png) <br/>[Gengar](/fire-red-omega-wiki/pokemon/094) <br/>Lv. 59 |
+
+<br/>
+
+## Rival Blue
+
+=== "Elekid"
+
+    | ![Rival Blue](https://play.pokemonshowdown.com/sprites/trainers/blue.png)                       | Item                                                           | Nature  | Ability     | Moves                                                                         |
+    | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------- | ----------- | ----------------------------------------------------------------------------- |
+    | ![zubat](../../img/pokemon/041.png) <br/>[Zubat](/fire-red-omega-wiki/pokemon/041) <br/>Lv. 9   | N/A                                                            | Relaxed | Inner-Focus | <ul><li>Leech-Life</li><li>Astonish</li><li>N/A</li><li>N/A</li></ul>         |
+    | ![elekid](../../img/pokemon/239.png) <br/>[Elekid](/fire-red-omega-wiki/pokemon/239) <br/>Lv. 9 | ![oran-berry](../../img/items/oran-berry.png) <br/> Oran berry | Hardy   | Volt-Absorb | <ul><li>Quick-Attack</li><li>Leer</li><li>Thunder-Shock</li><li>N/A</li></ul> |
+
+=== "Magby"
+
+    | ![Rival Blue](https://play.pokemonshowdown.com/sprites/trainers/blue.png)                     | Item                                                           | Nature  | Ability     | Moves                                                                 |
+    | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------- | ----------- | --------------------------------------------------------------------- |
+    | ![zubat](../../img/pokemon/041.png) <br/>[Zubat](/fire-red-omega-wiki/pokemon/041) <br/>Lv. 9 | N/A                                                            | Relaxed | Inner-Focus | <ul><li>Leech-Life</li><li>Astonish</li><li>N/A</li><li>N/A</li></ul> |
+    | ![magby](../../img/pokemon/240.png) <br/>[Magby](/fire-red-omega-wiki/pokemon/240) <br/>Lv. 9 | ![oran-berry](../../img/items/oran-berry.png) <br/> Oran berry | Gentle  | Flash-Fire  | <ul><li>Scratch</li><li>Leer</li><li>Ember</li><li>N/A</li></ul>      |
+
+=== "Smoochum"
+
+    | ![Rival Blue](https://play.pokemonshowdown.com/sprites/trainers/blue.png)                           | Item                                                           | Nature  | Ability     | Moves                                                                 |
+    | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------- | ----------- | --------------------------------------------------------------------- |
+    | ![zubat](../../img/pokemon/041.png) <br/>[Zubat](/fire-red-omega-wiki/pokemon/041) <br/>Lv. 9       | N/A                                                            | Relaxed | Inner-Focus | <ul><li>Leech-Life</li><li>Astonish</li><li>N/A</li><li>N/A</li></ul> |
+    | ![smoochum](../../img/pokemon/238.png) <br/>[Smoochum](/fire-red-omega-wiki/pokemon/238) <br/>Lv. 9 | ![oran-berry](../../img/items/oran-berry.png) <br/> Oran berry | Careful | Insomnia    | <ul><li>Pound</li><li>Growl</li><li>Powder-Snow</li><li>N/A</li></ul> |
+
+## Rival Blue (Final)
+
+=== "Elekid"
+
+    | ![Rival Blue (final)](https://play.pokemonshowdown.com/sprites/trainers/blue.png)                        | Item                                                                 | Nature  | Ability     | Moves                                                                                 |
+    | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------- | ----------- | ------------------------------------------------------------------------------------- |
+    | ![crobat](../../img/pokemon/169.png) <br/>[Crobat](/fire-red-omega-wiki/pokemon/169) <br/>Lv. 56         | N/A                                                                  | Relaxed | Inner-Focus | <ul><li>Aerial-Ace</li><li>Toxic</li><li>Confuse-Ray</li><li>Sludge-Bomb</li></ul>    |
+    | ![walrein](../../img/pokemon/365.png) <br/>[Walrein](/fire-red-omega-wiki/pokemon/365) <br/>Lv. 58       | ![chesto-berry](../../img/items/chesto-berry.png) <br/> Chesto berry | Modest  | Thick-Fat   | <ul><li>Surf</li><li>Ice-Beam</li><li>Rain-Dance</li><li>Rest</li></ul>               |
+    | ![sceptile](../../img/pokemon/254.png) <br/>[Sceptile](/fire-red-omega-wiki/pokemon/254) <br/>Lv. 59     | N/A                                                                  | Modest  | Overgrow    | <ul><li>Substitute</li><li>Leech-Seed</li><li>Frenzy-Plant</li><li>Crunch</li></ul>   |
+    | ![houndoom](../../img/pokemon/229.png) <br/>[Houndoom](/fire-red-omega-wiki/pokemon/229) <br/>Lv. 58     | ![lum-berry](../../img/items/lum-berry.png) <br/> Lum berry          | Rash    | Early-Bird  | <ul><li>Solar-Beam</li><li>Sunny-Day</li><li>Fire-Blast</li><li>Crunch</li></ul>      |
+    | ![gardevoir](../../img/pokemon/282.png) <br/>[Gardevoir](/fire-red-omega-wiki/pokemon/282) <br/>Lv. 59   | N/A                                                                  | Adamant | Synchronize | <ul><li>Calm-Mind</li><li>Psychic</li><li>Magical-Leaf</li><li>Thunderbolt</li></ul>  |
+    | ![electabuzz](../../img/pokemon/125.png) <br/>[Electabuzz](/fire-red-omega-wiki/pokemon/125) <br/>Lv. 61 | N/A                                                                  | Timid   | Volt-Absorb | <ul><li>Volt-Tackle</li><li>Cross-Chop</li><li>Ice-Punch</li><li>Fire-Punch</li></ul> |
+
+=== "Smoochum"
+
+    | ![Rival Blue (final)](https://play.pokemonshowdown.com/sprites/trainers/blue.png)                    | Item                                                           | Nature  | Ability     | Moves                                                                                 |
+    | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------- | ----------- | ------------------------------------------------------------------------------------- |
+    | ![crobat](../../img/pokemon/169.png) <br/>[Crobat](/fire-red-omega-wiki/pokemon/169) <br/>Lv. 56     | N/A                                                            | Relaxed | Inner-Focus | <ul><li>Aerial-Ace</li><li>Toxic</li><li>Confuse-Ray</li><li>Sludge-Bomb</li></ul>    |
+    | ![houndoom](../../img/pokemon/229.png) <br/>[Houndoom](/fire-red-omega-wiki/pokemon/229) <br/>Lv. 58 | ![lum-berry](../../img/items/lum-berry.png) <br/> Lum berry    | Rash    | Early-Bird  | <ul><li>Solar-Beam</li><li>Sunny-Day</li><li>Fire-Blast</li><li>Crunch</li></ul>      |
+    | ![ampharos](../../img/pokemon/181.png) <br/>[Ampharos](/fire-red-omega-wiki/pokemon/181) <br/>Lv. 58 | N/A                                                            | Quirky  | Static      | <ul><li>Thunder-Wave</li><li>Signal-Beam</li><li>Rain-Dance</li><li>Thunder</li></ul> |
+    | ![venusaur](../../img/pokemon/003.png) <br/>[Venusaur](/fire-red-omega-wiki/pokemon/003) <br/>Lv. 59 | N/A                                                            | Relaxed | Overgrow    | <ul><li>Frenzy-Plant</li><li>Sludge-Bomb</li><li>Sleep-Powder</li><li>Toxic</li></ul> |
+    | ![alakazam](../../img/pokemon/065.png) <br/>[Alakazam](/fire-red-omega-wiki/pokemon/065) <br/>Lv. 59 | N/A                                                            | Lonely  | Synchronize | <ul><li>Psychic</li><li>Recover</li><li>Ice-Punch</li><li>Thunder-Punch</li></ul>     |
+    | ![jynx](../../img/pokemon/124.png) <br/>[Jynx](/fire-red-omega-wiki/pokemon/124) <br/>Lv. 61         | ![white-herb](../../img/items/white-herb.png) <br/> White herb | Quirky  | Insomnia    | <ul><li>Ice-Beam</li><li>Lovely-Kiss</li><li>Psycho-Boost</li><li>Psychic</li></ul>   |
+
+=== "Magby"
+
+    | ![Rival Blue (final)](https://play.pokemonshowdown.com/sprites/trainers/blue.png)                    | Item                                                                 | Nature  | Ability     | Moves                                                                                  |
+    | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------- | ----------- | -------------------------------------------------------------------------------------- |
+    | ![crobat](../../img/pokemon/169.png) <br/>[Crobat](/fire-red-omega-wiki/pokemon/169) <br/>Lv. 56     | N/A                                                                  | Relaxed | Inner-Focus | <ul><li>Aerial-Ace</li><li>Toxic</li><li>Confuse-Ray</li><li>Sludge-Bomb</li></ul>     |
+    | ![walrein](../../img/pokemon/365.png) <br/>[Walrein](/fire-red-omega-wiki/pokemon/365) <br/>Lv. 58   | ![chesto-berry](../../img/items/chesto-berry.png) <br/> Chesto berry | Modest  | Thick-Fat   | <ul><li>Surf</li><li>Ice-Beam</li><li>Rain-Dance</li><li>Rest</li></ul>                |
+    | ![ampharos](../../img/pokemon/181.png) <br/>[Ampharos](/fire-red-omega-wiki/pokemon/181) <br/>Lv. 58 | N/A                                                                  | Quirky  | Static      | <ul><li>Thunder-Wave</li><li>Signal-Beam</li><li>Rain-Dance</li><li>Thunder</li></ul>  |
+    | ![magmar](../../img/pokemon/126.png) <br/>[Magmar](/fire-red-omega-wiki/pokemon/126) <br/>Lv. 61     | ![white-herb](../../img/items/white-herb.png) <br/> White herb       | Jolly   | Flash-Fire  | <ul><li>Overheat</li><li>Thunder-Punch</li><li>Fire-Blast</li><li>Cross-Chop</li></ul> |
+    | ![meganium](../../img/pokemon/154.png) <br/>[Meganium](/fire-red-omega-wiki/pokemon/154) <br/>Lv. 59 | N/A                                                                  | Naughty | Overgrow    | <ul><li>Light-Screen</li><li>Reflect</li><li>Synthesis</li><li>Frenzy-Plant</li></ul>  |
+    | ![gengar](../../img/pokemon/094.png) <br/>[Gengar](/fire-red-omega-wiki/pokemon/094) <br/>Lv. 59     | N/A                                                                  | Adamant | Levitate    | <ul><li>Thunderbolt</li><li>Hypnosis</li><li>Dream-Eater</li><li>Ice-Punch</li></ul>   |
