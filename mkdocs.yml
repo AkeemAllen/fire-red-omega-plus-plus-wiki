@@ -1,8 +1,8 @@
 site_name: Fire Red Omega Plus Plus Wiki
-site_url: https://akeemallen.github.io/fire-red-omega-wiki
+site_url: https://AkeemAllen.github.io/fire-red-omega-plus-plus-wiki/
 site_description: A Wiki For the FireRed Omega Rom Plus Plus Hack
 site_author: AkeemAllen
-repo_url: https://github.com/AkeemAllen/fire-red-omega-wiki
+repo_url: https://github.com/AkeemAllen/fire-red-omega-plus-plus-wiki
 theme:
     palette:
     -   media: '(prefers-color-scheme: light)'
